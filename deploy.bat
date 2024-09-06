@@ -19,8 +19,8 @@ git remote add origin https://github.com/mengshukeji/LuckysheetDocs.git
 git add .
 git commit -m 'deploy Luckysheet docs'
 git push -f origin master:gh-pages
-
-# ===============================================
+  
+# =============================================== test
 
 # add a tags
 git tag -a doc -m "doc"
